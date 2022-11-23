@@ -1,1 +1,3 @@
-# Cyropereira1A
+p {
+    text-align: center
+}
